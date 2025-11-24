@@ -69,7 +69,7 @@ https://doi.org/10.1021/acsphotonics.0c00513
 ### 光学常数
 - `PMMA_n.m`, `PMMA_k.m` - PMMA光学常数
 - `PDMS101_n.m`, `PDMS101_k.m` - PDMS光学常数
-- `TiO2_n_Perp_Palik.m`, `TiO2_k_pure_AM.m` - TiO₂光学常数
+- `TiO2_n.m`, `TiO2_k.m` - TiO₂光学常数
 - `sio2_n.m`, `sio2_k.m` - SiO₂光学常数
 
 ### 辅助函数
