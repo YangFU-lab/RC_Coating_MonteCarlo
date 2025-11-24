@@ -16,33 +16,6 @@ https://doi.org/10.1002/eom2.12169
 **2. Yalçın, R. A., Blandre, E., Joulain, K., & Drévillon, J. (2020). Colored radiative cooling coatings with nanoparticles. *ACS Photonics*, 7(5), 1312-1322.**  
 https://doi.org/10.1021/acsphotonics.0c00513
 
-```bibtex
-@article{fu2022polymer,
-  title={Polymer coating with gradient‐dispersed dielectric nanoparticles for enhanced daytime radiative cooling},
-  author={Fu, Yang and An, Yuxuan and Xu, Yifan and Dai, Jian-Guo and Lei, Dangyuan},
-  journal={EcoMat},
-  volume={4},
-  number={2},
-  pages={e12169},
-  year={2022},
-  publisher={Wiley Online Library},
-  doi={10.1002/eom2.12169}
-}
-
-@article{yalcin2020colored,
-  title={Colored radiative cooling coatings with nanoparticles},
-  author={Yal{\c{c}}ın, R{\"u}ya Arzu and Blandre, Etienne and Joulain, Karl and Dr{\'e}villon, J{\'e}r{\^o}me},
-  journal={ACS Photonics},
-  volume={7},
-  number={5},
-  pages={1312--1322},
-  year={2020},
-  publisher={American Chemical Society},
-  doi={10.1021/acsphotonics.0c00513}
-}
-```
-
----
 
 本仓库包含两个用于计算辐射冷却（Radiative Cooling, RC）涂层光谱性能的MATLAB程序，均采用蒙特卡洛（Monte Carlo）方法进行光子传输模拟。
 
