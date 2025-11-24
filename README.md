@@ -1,6 +1,8 @@
 [README.md](https://github.com/user-attachments/files/23719992/README.md)
 # 辐射冷却涂层蒙特卡洛模拟程序
 
+本仓库包含两个用于计算辐射冷却（Radiative Cooling, RC）涂层光谱性能的MATLAB程序，均采用蒙特卡洛（Monte Carlo）方法进行光子传输模拟。
+
 ## 作者信息
 
 - **姓名**: Yang FU
@@ -15,9 +17,6 @@ https://doi.org/10.1002/eom2.12169
 
 **2. Yalçın, R. A., Blandre, E., Joulain, K., & Drévillon, J. (2020). Colored radiative cooling coatings with nanoparticles. *ACS Photonics*, 7(5), 1312-1322.**  
 https://doi.org/10.1021/acsphotonics.0c00513
-
-
-本仓库包含两个用于计算辐射冷却（Radiative Cooling, RC）涂层光谱性能的MATLAB程序，均采用蒙特卡洛（Monte Carlo）方法进行光子传输模拟。
 
 ## 程序概述
 
